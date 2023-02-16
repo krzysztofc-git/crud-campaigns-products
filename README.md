@@ -15,6 +15,21 @@ Example data of `REACT_APP_API_URL_EMERALD`'s API:
  }
 ]
 ```
+
+## Features
+### CRUD operations
+![](screenshots/main_page.png)
+### Updating values
+![](screenshots/update_page.png)
+### Predefined values
+![](screenshots/update_page_keywords.png)
+### Dropdowns
+![](screenshots/dropdown_field.png)
+### Form validation
+![](screenshots/required_field.png)
+### Responsive design
+![](screenshots/main_page_responsive.png)
+
 <hr>
 
 Content from README template:
