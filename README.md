@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# CRUD Campaigns Products
+
+The project requires setting enviroment variables `REACT_APP_API_URL` and `REACT_APP_API_URL_EMERALD` - URLs for Mock API.
+
+Example data of `REACT_APP_API_URL_EMERALD`'s API:
+```json
+[
+ {
+  "balance": 80000,
+  "id": "1"
+ },
+ {
+  "balance": 17,
+  "id": "2"
+ }
+]
+```
+<hr>
+
+Content from README template:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
